@@ -2,8 +2,8 @@ import React, {useState} from "react";
 
 function App() {
   return (
-    <div className="App">
-      안녕하세요
+    <div>
+      되냐?
     </div>
   );
 }
